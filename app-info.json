@@ -1,0 +1,13 @@
+{
+  "name" : "7os/jquery",
+  "description" : "JQuery optimized for 7 OS web",
+  "homepage" : "https://github.com/7os/jquery",
+  "support" : {
+    "email" : "dev@tymfrontiers.com",
+    "website" : "https://tymfrontiers.com",
+    "kollabo" : "@tymfrontiers",
+    "twitter" : "@tymfrontiers",
+    "facebook" : "@tymfrontiers",
+    "istagram" : "@tymfrontiers"
+  }
+}

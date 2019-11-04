@@ -1,0 +1,19 @@
+{
+    "name": "7os/jquery",
+    "description": "jQuery - optimized for 7 OS Web",
+    "keywords": ["css", "javascript","7","seven","os","web","jquery"],
+    "homepage": "https://github.com/7os/jquery",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "me@sirlouis.io"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
