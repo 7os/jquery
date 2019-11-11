@@ -1,7 +1,7 @@
 {
-  "name" : "7os/jquery",
+  "name" : "7os/jquery-soswapp",
   "description" : "JQuery optimized for 7 OS web",
-  "homepage" : "https://github.com/7os/jquery",
+  "homepage" : "https://github.com/7os/jquery-soswapp",
   "support" : {
     "email" : "dev@tymfrontiers.com",
     "website" : "https://tymfrontiers.com",

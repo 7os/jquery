@@ -1,8 +1,8 @@
 <?php
 // load up app settings
 $conf_path = \str_replace([
-  "/vendor/7os/jquery",
-  "/dev/7os/jquery",
+  "/vendor/7os/jquery-soswapp",
+  "/dev/7os/jquery-soswapp",
   "\\vendor\\7os\\jquery",
   "\\dev\\7os\\jquery",
 ],"",__DIR__);
